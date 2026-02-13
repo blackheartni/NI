@@ -1,0 +1,11 @@
+{
+  "name": "farishta-backend",
+  "version": "1.0.0",
+  "description": "Stateless AI proxy for Farishta Engine",
+  "main": "api/chat.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {}
+}
